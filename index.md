@@ -1,3 +1,5 @@
+#Site created: 16 December 2025
+
 # Sophia de Avalon
 # Academic Research Archive
 
@@ -16,3 +18,8 @@ This site introduces three new conceptual frameworks for scholarly engagement an
 ## Publications
 
 A curated list of peer-reviewed papers and chapters is provided for academic reference, with citation details and links where available.
+
+---
+#Site Updates
+**16 December 2025**
+Initial site created. Core structure established and academic scope defined.
