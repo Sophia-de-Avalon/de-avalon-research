@@ -23,7 +23,7 @@ A curated list of peer-reviewed papers and chapters is provided for academic ref
 **Covacio, Silvia (2003)**
 *Technological Problems Associated with Subcutaneous Microchips for Human Identification (SMHId)*
 In proceedings of the Informing Science and Information Technology Education Conference (InSITE), Pori, Finland. pp. 843-853. Accepted as a short paper. 
-Available at: http://proceedings.informingscience.org/InSITE2003/078covac.pdf
+Available at: [http://proceedings.informingscience.org/InSITE2003/078covac.pdf](https://www.informingscience.org/Publications/2671?Source=%2FConferences%2FInSITE2003%2FProceedings)
 
 **Covacio, Silvia (2003)** 
 *Taxonomic Categorization of Technological Artefacts.*
