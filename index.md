@@ -25,7 +25,7 @@ Proceedings of the Informing Science and Information Technology Education Confer
 Available at: http://proceedings.informingscience.org/InSITE2003/078covac.pdf
 
 **Covacio, Silvia (2003)** 
-*Taxonomic Categorization of Technological Artefacts.
+*Taxonomic Categorization of Technological Artefacts.*
 Proceedings of the 16th Bled eCommerce Conference: eTRansformation, Bled, Slovenia. R. Clarke, A.Pucihar, & J. Gricar (Eds.) pp 652-667
 Working paper - Transformation Track. Available at: http//aisel.aisnet.org/bled2003/49/
 
