@@ -33,7 +33,7 @@ Working paper - Transformation Track. Paper presented at conference: online copy
 **Covacio, Silvia (2003)**
 *Misinformation: Understanding the Evolution of Deception*
 In proceedings of the Informing Science and Information Technology Education Conference (InSITE), Pori, Finland. pp. 123-130.
-Available at: http://proceedings.informingscience.org/InSITE2003/089covac.pdf 
+Available at: [http://proceedings.informingscience.org/InSITE2003/089covac.pdf](https://www.informingscience.org/Publications/2656?Source=%2FConferences%2FInSITE2003%2FProceedings) 
 
 
 ---
