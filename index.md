@@ -11,9 +11,11 @@ My academic publications, produced over more than two decades, examine questions
 
 ## Research Frameworks
 
-This site introduces three new conceptual frameworks for scholarly engagement and discussion. Details descriptions and references will be added progressively.<br>
+This site introduces three new interactive conceptual frameworks for scholarly engagement and discussion. Details descriptions and references will be added progressively.<br>
 1. TSHI - Technosocial Harm Index <br>
 2. CVI - [Function] Creep Velocity Index<br>
+3. PCG 2.0 - Polycentric Governance Framework 2.0
+
 
 <a href="frameworks.md">FRAMEWORKS</A>
 
