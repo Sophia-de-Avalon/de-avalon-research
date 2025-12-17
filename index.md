@@ -38,11 +38,3 @@ Available at: [http://proceedings.informingscience.org/InSITE2003/089covac.pdf](
 
 
 ---
-#Site Updates<br>
-**16 December 2025**
-Initial site created. Core structure established and academic scope defined.
-Added three peer-reviewed conference publication ( 2 for InSITE 2003), (Bled, Slovenia, eCommerce Conference, 2003) to the publication list.
-Added 'Authors note' to clarify name change maintaining continuity of publication record.<br>
-**17 December 2025**
-Added page for interactive conceptual frameworks.
-
