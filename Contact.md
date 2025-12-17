@@ -16,7 +16,7 @@ Added pages for 1. Interactive conceptual frameworks 2. Contact page and email 3
 
 **16 December 2025**<br>
 Initial site created. Core structure established and academic scope defined.
-Added three peer-reviewed conference publication ( 2 for InSITE 2003), (Bled, Slovenia, eCommerce Conference, 2003) to the publication list.
+Added three peer-reviewed conference publication ( 2 for Pori, Finland InSITE Conference, 2003), (1 for Bled, Slovenia, eCommerce Conference, 2003) to the publication list.
 Added 'Authors note' to clarify name change maintaining continuity of publication record.<br>
 
 
