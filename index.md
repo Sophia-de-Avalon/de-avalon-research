@@ -5,7 +5,7 @@ Site created: 16 December 2025
 This website serves as a scholarly repository for my peer-reviewed research and ongoing conceptual work.<br>
 My academic publications, produced over more than two decades, examine questions of human identification across archeological, biological, and technological contexts.<br>
 
-<a href="contact.md">CONTACT</A>
+<a href="Contact.md">CONTACT</A>
 
 ---
 
