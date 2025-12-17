@@ -21,6 +21,10 @@ This site introduces three new conceptual frameworks for scholarly engagement an
 A curated list of peer-reviewed papers and chapters is provided for academic reference, with citation details and links where available. 
 *Author note: Publications prior to [2007] were published under my birth name. I now publish under the name **Sophia de AValon**. This archive brings the full body of work together for scholarly reference.
 
+**de Avalon, Sophia (2025 - ongoing)
+*Human Identification Systems: from Ochre to Orbital Surveillance (40,000 BCE – 2040 CE)*
+PhD thesis - submitting university unknown. Currently a work in progress.
+
 **Covacio, Silvia (2003)**
 *Technological Problems Associated with Subcutaneous Microchips for Human Identification (SMHId)*
 In proceedings of the Informing Science and Information Technology Education Conference (InSITE), Pori, Finland. pp. 843-853. Accepted as a short paper. 
