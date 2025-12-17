@@ -19,7 +19,8 @@ This site introduces three new conceptual frameworks for scholarly engagement an
 ## Publications
 
 A curated list of peer-reviewed papers and chapters is provided for academic reference, with citation details and links where available.<br> 
-*Author note: Publications prior to [2007] were published under my birth name. I now publish under the name **Sophia de AValon**. This archive brings the full body of work together for scholarly reference.
+*Author note: Publications prior to [2007] were published under my birth name. I now publish under the name **Sophia de Avalon**.<br>
+This archive brings the full body of work together for scholarly reference.
 
 
 **de Avalon, Sophia (2025 - ongoing)**<br>
