@@ -6,7 +6,8 @@
 This website serves as a scholarly repository for my peer-reviewed research and ongoing conceptual work.<br>
 
 My academic publications, produced over more than two decades, examine questions of human identification across archeological, biological, and technological contexts.<br>
-<a href="Contact.md">CONTACT</a>
+
+<a href="Contact.md">CONTACT ME</A>
 ---
 
 ## Research Frameworks
