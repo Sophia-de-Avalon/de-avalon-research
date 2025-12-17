@@ -1,3 +1,5 @@
-## Contact me via my personal email:  > Insert > Link > mailto:de-avalon-research@outlook.com. 
+## Contact me via my personal email:  
+
+mailto:de-avalon-research@outlook.com. 
 
 
