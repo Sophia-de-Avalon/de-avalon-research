@@ -8,14 +8,6 @@ Email: mailto:de-avalon-research@outlook.com
 ---
 
 
-
-
-
-
-
-
-
----
 ## Site Updates<br>
 
 **17 December 2025**<br>
