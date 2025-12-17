@@ -1,6 +1,6 @@
 #Site created: 16 December 2025
 
-# Sophia de Avalon
+# Sophia de Avalon                            <a href="Contact.md">CONTACT</A>
 # Academic Research Archive
 
 This website serves as a scholarly repository for my peer-reviewed research and ongoing conceptual work.
@@ -48,3 +48,9 @@ In proceedings of the 16th Bled eCommerce Conference: eTransformation, Bled, Slo
 Working paper - Transformation Track. Paper presented at conference: online copy no longer available.
 
 ---
+
+## Academic Reference 
+
+Any references to specific authors of books, articles, or online work in relation to this website are available for perusal via the link.
+
+<a href="References.md">REFERENCES</A>
