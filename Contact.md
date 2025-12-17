@@ -1,12 +1,9 @@
-## Contact Dr. de Avalon
+## Contact Dr de Avalon
 
 Reach out to discuss the Creep Velocity Index, Technosocial Harm, or Governance Capture or to share your own scars turning to evidence.
-
-Email: mailto:de-avalon-research@outlook.com
-
 The garden blooms for those who seek truth. Thorns welcome.
 
-
+Email: mailto:de-avalon-research@outlook.com
 
 ---
 
