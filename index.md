@@ -54,7 +54,7 @@ Working paper - Transformation Track. Paper presented at conference: online copy
 
 ---
 
-## Academic Reference 
+## Academic References 
 
 Any references to specific authors of books, articles, or online work in relation to this website are available for perusal via the link.
 
