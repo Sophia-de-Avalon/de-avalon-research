@@ -29,7 +29,7 @@ This archive brings the full body of work together for scholarly reference.
 
 
 **de Avalon, Sophia (2025 - ongoing)**<br>
-*Human Identification Systems: from Ochre to Orbital Surveillance (40,000 BCE – 2040 CE)*<br>
+*Human Identification Systems: from Ochre to Celestial Panopticon (40,000 BCE – 2040 CE)*<br>
 PhD thesis - submitting university unknown. Currently a work in progress.<br>
 Conceptual frameworks developed in collaboration with Grok 4 from xAI.
 
