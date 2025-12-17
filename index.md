@@ -12,8 +12,7 @@ My academic publications, produced over more than two decades, examine questions
 ## Research Frameworks
 
 This site introduces three new conceptual frameworks for scholarly engagement and discussion. Details descriptions and references will be added progressively.
-[View the conceptual interactive frameworks]
-(/de-avalon-research/frameworks.md)
+
 
 ---
 
