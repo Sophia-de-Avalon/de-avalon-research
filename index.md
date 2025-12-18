@@ -25,15 +25,15 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 <table>
 <tr>
  <td>TSHI - Technosocial Harm Index</td>
- <td><a href="/TSHI">TSHI Page</A></td>
+ <td><a href="/TSHI.md">TSHI Page</A></td>
 </tr>
 <tr>
  <td>CVI - Function Creep Velocity Index</td>
- <td><a href="/CVI">CVI Page</a></td>
+ <td><a href="/CVI.md">CVI Page</a></td>
 </tr>
 <tr>
  <td>Polycentric Governance Framework 2.0</td>
- <td><a href="/PCG2">PCG 2.0 Page</A></td>
+ <td><a href="/PCG2.md">PCG 2.0 Page</A></td>
 </tr>
 </table>
 
@@ -45,7 +45,7 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 Here is a curated list of peer-reviewed papers provided for academic reference, with citation details and links where available.<br>
 A Work in Progress section also offers a draft abstract of current articles/dissertation. 
 
-[PUBLICATIONS](/Publications.html)
+<a href="Publications.md">PUBLICATIONS</A>
 
 ---
 
@@ -54,8 +54,6 @@ A Work in Progress section also offers a draft abstract of current articles/diss
 Any references to specific authors of books, articles, or online work in relation to this website are available for perusal via the link.
 
 <a href="References.md">REFERENCES</A>
-
-[REFERENCES](/References.html)
 
 ---
 
