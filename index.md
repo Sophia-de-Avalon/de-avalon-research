@@ -37,7 +37,7 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 
 ## Publications and Work in Progress
 
-A curated list of peer-reviewed papers is provided for academic reference, with citation details and links where available.
+A curated list of peer-reviewed papers is provided for academic reference, with citation details and links where available. A Work in Progress section offers a draft abstract of current articles/dissertation. 
 
 <a href="Publications.md">PUBLICATIONS</A>
 
