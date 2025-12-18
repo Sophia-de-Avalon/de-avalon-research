@@ -11,7 +11,7 @@ My academic publications, produced over more than two decades, examine questions
 Reach out to discuss the Creep Velocity Index, Technosocial Harm, or Governance Capture or to share your own evidence.
 The garden blooms for those who seek truth. Thorns welcome.
 
-Email:(mailto:de-avalon-research@outlook.com)
+Email: mailto:de-avalon-research@outlook.com
 
 ---
 
