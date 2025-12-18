@@ -1,4 +1,4 @@
-<a href="index.md">HOME PAGE</A>
+<a href="index.md">HOME</A>
 
 ## TSHI - Technosocial Harm Index
 
