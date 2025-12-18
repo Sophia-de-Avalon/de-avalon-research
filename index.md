@@ -37,6 +37,14 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 </tr>
 </table>
 
+
+|---------|------|
+| TSHI – Technosocial Harm Index | [TSHI Page](/TSHI) |
+| CVI – Creep Velocity Index | [CVI Page](/CVI) |
+| Polycentric Governance Framework 2.0 | [PCG 2.0 Page](/PCG2) |
+
+
+
 ---
 
 ## Publications and Work in Progress
