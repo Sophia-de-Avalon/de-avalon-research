@@ -1,6 +1,6 @@
 Site created: 16 December 2025 
 
-## Sophia de Avalon  ...  Academic Research Archive
+# Sophia de Avalon  ...  Academic Research Archive
 
 ---
 
