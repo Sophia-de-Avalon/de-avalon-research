@@ -1,6 +1,6 @@
 Site created: 16 December 2025 
 
-# Sophia de Avalon  ...  Academic Research Archive
+## Sophia de Avalon  ...  Academic Research Archive
 
 ---
 
@@ -33,6 +33,7 @@ This site introduces three new interactive conceptual frameworks for scholarly e
  <td><a href="PCG2.md"> PCG 2.0 Page</A></td>
 </tr>
 </table>
+
 ---
 
 ## Publications and Work in Progress
