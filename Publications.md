@@ -1,4 +1,4 @@
-**Publications**
+## Publications and Work in Progress
 
 A curated list of peer-reviewed papers is provided for academic reference, with citation details and links where available.<br> 
 
@@ -33,3 +33,5 @@ Author note - Publications prior to [2007] were published under my birth name. I
 This archive brings the full body of work together for scholarly reference.
 
 ---
+
+## Work in Progress
