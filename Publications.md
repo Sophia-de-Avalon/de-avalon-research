@@ -27,6 +27,6 @@ In proceedings of the 16th Bled eCommerce Conference: eTransformation, Bled, Slo
 Working paper - Transformation Track. Paper presented at conference: online copy no longer available.
 
 
-*Author note:  Publications prior to [2007] were published under my birth name. I now publish under the name **Sophia de Avalon**.<br>
+Author note:  Publications prior to [2007] were published under my birth name. I now publish under the name **Sophia de Avalon**.<br>
 This archive brings the full body of work together for scholarly reference.
 ---
