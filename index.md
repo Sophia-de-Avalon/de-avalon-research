@@ -43,6 +43,8 @@ A Work in Progress section also offers a draft abstract of current articles/diss
 
 <a href="Publications.md">PUBLICATIONS</A>
 
+---
+
 ## Academic References 
 
 Any references to specific authors of books, articles, or online work in relation to this website are available for perusal via the link.
@@ -51,7 +53,11 @@ Any references to specific authors of books, articles, or online work in relatio
 
 ---
 
-## 
+## Declarations and Site Updates
+
+<a href="Declarations and Site Updates.md">DECLARATIONS</A>
+
+---
 
 
 
