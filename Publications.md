@@ -37,7 +37,7 @@ This archive brings the full body of work together for scholarly reference.
 PhD thesis - submitting university unknown. Currently a work in progress.<br>
 Conceptual frameworks developed in collaboration with Grok 4 from xAI.
 
-Draft Abstract:
+Draft Abstract:<br>
 This thesis presents a 40,000-year archaeology of human identification, demonstrating that the impulse to mark the self and the other is the oldest technology of power and control. From Palaeolithic ochre hand-prints to 2025’s 911 million subdermal implants and the orbital gaze of the Celestial Panopticon, the medium has changed — skin, scar, brand, tattoo, passport, barcode, RFID, neural dust — yet the disciplinary function remains identical: to render bodies legible to authority.
 
 Eight chapters trace this unbroken continuum: the eternal mark across millennia, its modern technosocial realisation (2000--2025), the Technosocial Harm Index (TSHI) as the first triple-axis metric capable of exposing the utility–integrity–equity betrayal, function creep quantified by the Creep Velocity Index (CVI), polycentric resistance archetypes, and four rigorously calibrated 2030--2040 futures ranging from Corporate Cortex to Quantum Sanctuary.
@@ -50,6 +50,7 @@ The work culminates in the Polycentric Governance Framework 2.0 (PGF 2.0) — a 
 *Creep Velocity Index (CVI): A Framework for Measuring Permanent Identification Function Creep, 2000 - 2025*
 Draft paper for submission to an Australian journal
 
+Draft Abstract:<br>
 This paper presents a twenty-five year longitudinal analysis of permanent identification function creep, triangulating archival, policy, breach, and clinical data. Function creep is decomposed into three vectors.
 
 A novel Creep Velocity Index (CVI) is introduced and calibrated across seven regimes (median CVI = 0.79). Findings reveal consistent pathological recursion in global roll-outs from Aadhaar to Neuralink. The Celestial Panopticon (NTN/LEO constellations) has rendered traditional oversight obsolete. The framework establishes an empirical baseline for regulatory recalibration of permanent identification systems and foreshadows 2035 post-human ID regimes. The CVI provides the first longitudinal, comparative metric capable of identifying irreversible governance capture before permanent identification systems become compulsory.
