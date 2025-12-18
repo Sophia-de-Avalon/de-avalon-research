@@ -1,7 +1,7 @@
-
-
-
 ## PCG 2.0 - Polycentric Governance Framework 2.0
+
+---
+
 The Governance Capture Loop describes the cybernetic pathology where regulators are captured by regulatees, attenuating variety until public servants 
 become private enforcers and systems rigidify into domination. Inspired by Beer (1972), it maps revolving doors as "jobs for the boys" by cycling pharma 
 executives to panels, intelligence officers to moderation boards, ensuring one narrative survives while dissent is labeled "threat." In COVID responses, 
