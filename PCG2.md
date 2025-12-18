@@ -1,4 +1,4 @@
-<a href="index.md">HOME PAGE</A>
+<a href="index.md">HOME</A>
 
 ## PCG 2.0 - Polycentric Governance Framework 2.0
 
