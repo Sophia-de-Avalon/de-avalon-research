@@ -2,6 +2,8 @@ Site created: 16 December 2025
 
 # Sophia de Avalon  ...  Academic Research Archive
 
+---
+
 This website serves as a scholarly repository for my peer-reviewed research, ongoing conceptual work, and PhD thesis.<br>
 My academic publications, produced over more than two decades, examine questions of human identification across archeological, biological, and technological contexts.<br>
 
