@@ -35,8 +35,21 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 </table>
 ---
 
+## Publications and Work in Progress
+
+
+
+
+
 ## Academic References 
 
 Any references to specific authors of books, articles, or online work in relation to this website are available for perusal via the link.
 
 <a href="References.md">REFERENCES</A>
+
+---
+
+## 
+
+
+
