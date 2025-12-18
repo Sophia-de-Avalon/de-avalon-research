@@ -1,6 +1,6 @@
 <a href="index.md">HOME</A>
 
-## CVI - [Function] Creep Velocity Index
+## CVI - Creep Velocity Index
 
 ---
 
