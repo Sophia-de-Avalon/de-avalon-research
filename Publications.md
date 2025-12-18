@@ -4,12 +4,6 @@ A curated list of peer-reviewed papers is provided for academic reference, with 
 
 ---
 
-**de Avalon, Sophia (2025 - ongoing)**<br>
-*Human Identification Systems: from Ochre to Celestial Panopticon (40,000 BCE – 2040 CE)*<br>
-PhD thesis - submitting university unknown. Currently a work in progress.<br>
-Conceptual frameworks developed in collaboration with Grok 4 from xAI.
-
-
 **Covacio, Silvia (2003)**<br>
 *Technological Problems Associated with Subcutaneous Microchips for Human Identification (SMHId)*<br>
 In proceedings of the Informing Science and Information Technology Education Conference (InSITE), Pori, Finland. pp. 843-853. Accepted as a short paper. <br>
@@ -35,3 +29,8 @@ This archive brings the full body of work together for scholarly reference.
 ---
 
 ## Work in Progress
+
+**de Avalon, Sophia (2025 - ongoing)**<br>
+*Human Identification Systems: from Ochre to Celestial Panopticon (40,000 BCE – 2040 CE)*<br>
+PhD thesis - submitting university unknown. Currently a work in progress.<br>
+Conceptual frameworks developed in collaboration with Grok 4 from xAI.
