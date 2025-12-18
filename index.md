@@ -17,7 +17,7 @@ Email: mailto:de-avalon-research@outlook.com
 
 This site introduces three new interactive conceptual frameworks for scholarly engagement and discussion.
 
-<tablt>
+<table>
 <tr>
  <td>TSHI - Technosocial Harm Index</td>
  <td><a href="TSHI.md">TSHI Page</A></td>
