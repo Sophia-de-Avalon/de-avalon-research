@@ -45,7 +45,7 @@ This site introduces three new interactive conceptual frameworks for scholarly e
 Here is a curated list of peer-reviewed papers provided for academic reference, with citation details and links where available.<br>
 A Work in Progress section also offers a draft abstract of current articles/dissertation. 
 
-[PUBLICATIONS](/Publications)
+[PUBLICATIONS](/Publications.html)
 
 ---
 
@@ -55,7 +55,7 @@ Any references to specific authors of books, articles, or online work in relatio
 
 <a href="References.md">REFERENCES</A>
 
-[REFERENCES](/References)
+[REFERENCES](/References.html)
 
 ---
 
