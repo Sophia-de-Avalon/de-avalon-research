@@ -1,8 +1,7 @@
-
-
-
-
 ## CVI - [Function] Creep Velocity Index
+
+---
+
 The Creep Velocity Index (CVI) quantifies the rate at which permanent identification systems expand from voluntary convenience to mandatory control, 
 measuring unintended use-case growth (ΔU), population coverage (ΔP), and temporal velocity (t). Born from early warnings on subcutaneous microchips 
 (SMHId, 2003), it formalizes the "creep" pattern: initial tools like animal tags evolving into human surveillance networks. With a formula CVI = ΔU / (ΔP × t), 
