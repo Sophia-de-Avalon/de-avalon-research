@@ -16,21 +16,21 @@ Email: mailto:de-avalon-research@outlook.com
 ## Research Frameworks
 
 This site introduces three new interactive conceptual frameworks for scholarly engagement and discussion.
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(3, auto); gap: 0px; border: none;">
-  <!-- Row 1, Column 1 -->
-  <div style="padding: 10px;">TSHI - Technosocial Harm Index</div>
-  <!-- Row 1, Column 2 -->
-  <div style="padding: 10px;"> [TSHI Framework](TSHI.md) </div>
-  <!-- Row 2, Column 1 -->
-  <div style="padding: 10px;">CVI - Function-Creep Velocity Index</div>
-  <!-- Row 2, Column 2 -->
-  <div style="padding: 10px;">[CVI Framework](CVI.md)</div>
-  <!-- Row 3, Column 1 -->
-  <div style="padding: 10px;">PCG 2.0 - Polycentric Governance Framework 2.0</div>
-  <!-- Row 3, Column 2 -->
-  <div style="padding: 10px;">[PCG 2.0 Framework](PCG2.md)</div>
-</div>
 
+<tablt>
+<tr>
+ <td>TSHI - Technosocial Harm Index</td>
+ <td><a href="TSHI.md">TSHI Page</A></td>
+</tr>
+<tr>
+ <td>CVI - Function Creep Velocity Index</td>
+ <td><a href="CVI.md">CVI Page</A></td>
+</tr>
+<tr>
+ <td>Polycentric Governance Framework 2.0</td>
+ <td><a href="PCG2.md"> PCG 2.0 Page</A></td>
+</tr>
+</table>
 ---
 
 ## Academic References 
