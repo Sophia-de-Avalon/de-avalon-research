@@ -1,3 +1,5 @@
+<a href="index.md">HOME</A>
+
 ## Publications and Work in Progress
 
 A curated list of peer-reviewed papers is provided for academic reference, with citation details and links where available.<br> 
