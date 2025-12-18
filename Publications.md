@@ -2,6 +2,7 @@
 
 A curated list of peer-reviewed papers is provided for academic reference, with citation details and links where available.<br> 
 
+---
 
 **de Avalon, Sophia (2025 - ongoing)**<br>
 *Human Identification Systems: from Ochre to Celestial Panopticon (40,000 BCE – 2040 CE)*<br>
