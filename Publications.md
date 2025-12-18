@@ -48,6 +48,7 @@ The work culminates in the Polycentric Governance Framework 2.0 (PGF 2.0) — a 
 
 **de Avalon, Sophia (2025 - ongoing)**<br>
 *Creep Velocity Index (CVI): A Framework for Measuring Permanent Identification Function Creep, 2000 - 2025*
+Draft paper for submission to an Australian journal
 
 This paper presents a twenty-five year longitudinal analysis of permanent identification function creep, triangulating archival, policy, breach, and clinical data. Function creep is decomposed into three vectors.
 
